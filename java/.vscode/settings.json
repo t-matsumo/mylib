@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "java.saveActions.organizeImports": true,
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "java.configuration.checkProjectSettingsExclusions": false
+}

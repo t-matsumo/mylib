@@ -1,0 +1,6 @@
+{
+    "solargraph.useBundler": true,
+    "ruby.useBundler": true,
+    "ruby.format": "rubocop",
+    "editor.formatOnSave": true,
+}
