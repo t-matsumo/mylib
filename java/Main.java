@@ -10,7 +10,6 @@ public class Main {
     }
 
     void solve(final InputReader in, final PrintWriter out) {
-
     }
 }
 
